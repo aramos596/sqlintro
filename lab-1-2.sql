@@ -1,5 +1,6 @@
 -- Can I see a list of all teams by year and number of wins,
 -- starting with the fewest wins?
+select names from teams;
 
 -- Expected result: 2955 rows, ending with
 --
